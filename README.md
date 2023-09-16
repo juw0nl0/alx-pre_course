@@ -1,3 +1,3 @@
 My first readme
 
-I updeted this file from the git interface and not terminal
+I updated this file from the git interface and not terminal
